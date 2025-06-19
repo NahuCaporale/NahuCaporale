@@ -1,10 +1,11 @@
  # Hi there, i'm Nahuel 👋
 
 💼 Formación Académica
-Curso en desarrollo web en CoderHouse
-Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas
+-Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas
 📍 Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)
 🗓️ Actualmente cursando
+
+ -Curso en desarrollo web en CoderHouse
 
 💻 Tecnologías y Conocimientos
 Lenguajes de Programación
