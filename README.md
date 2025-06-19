@@ -5,7 +5,7 @@
 📍 Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)
 🗓️ Actualmente cursando
 
- -Curso en desarrollo web en CoderHouse
+💼Curso de desarrollo web y javascript en CoderHouse
 
 💻 Tecnologías y Conocimientos
 Lenguajes de Programación
@@ -24,5 +24,11 @@ Desarrollo Web
     Frontend – HTML, CSS, JavaScript, Bootstrap
     Backend – PHP, conexión a BD, arquitectura MVC
     Full Stack – Desarrollo de CRUD, validaciones, sesiones, autenticación
+    
+Frameworks y Librerías
+
+    Angular – Desarrollo de SPAs, componentes, servicios, consumo de APIs REST
+
+    React – Componentes funcionales, hooks, estado, manejo de rutas y props
     
  🚀 En constante aprendizaje y práctica de nuevas tecnologías, con foco en el desarrollo de soluciones eficientes y escalables.
