@@ -31,7 +31,7 @@ Desarrollo Web
 
     React: componentes con hooks, estado y rutas para interfaces mantenibles.
     
-   Redes y Ruteo HTTP (versión simplificada)
+🌐 Redes y Ruteo HTTP
 
     Modelo OSI / TCP-IP.
 
