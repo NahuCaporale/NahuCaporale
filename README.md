@@ -25,10 +25,22 @@ Desarrollo Web
     Backend – PHP, conexión a BD, arquitectura MVC
     Full Stack – Desarrollo de CRUD, validaciones, sesiones, autenticación
     
-Frameworks y Librerías
+⚛️ Frameworks y Librerías
 
-    Angular – Desarrollo de SPAs, componentes, servicios, consumo de APIs REST
+    Angular: SPAs con componentes, consumo de APIs y rutas.
 
-    React – Componentes funcionales, hooks, estado, manejo de rutas y props
+    React: componentes con hooks, estado y rutas para interfaces mantenibles.
+    
+   Redes y Ruteo HTTP (versión simplificada)
+
+    Modelo OSI / TCP-IP.
+
+    Configuracion IPs y subredes 
+
+    Enrutamiento
+
+    Conceptos  de puertos, sockets y HTTPS
+
+    Docker Networking básico.
     
  🚀 En constante aprendizaje y práctica de nuevas tecnologías, con foco en el desarrollo de soluciones eficientes y escalables.
